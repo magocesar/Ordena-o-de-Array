@@ -29,7 +29,7 @@
 
 <h3>Insertion Sort<h3>
 <img src=img/insertion_01.png></img>
-<img src=img/insertion_01.png></img>
+<img src=img/insertion_02.png></img>
 
 
 <h3>Quick Sort<h3>
